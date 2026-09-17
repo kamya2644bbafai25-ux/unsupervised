@@ -1,4 +1,4 @@
-# Deep Learning Fashion Image Classification
+Unsupervised learning
 
 ## Project Overview
 
